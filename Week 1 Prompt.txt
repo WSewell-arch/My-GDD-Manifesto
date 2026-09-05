@@ -1,0 +1,13 @@
+I would avoid creating an Information Silo by creating a discord channel 
+where all of our team members are located. When someone is working on the game 
+and is ready to push a change, they would notify the team. This would ensure 
+that everybody is aware of when someone’s working on the game and we would 
+avoid merge conflicts. A channel with the entire team on it would also make 
+communications easier, for example, if someone had a problem or issue they 
+could discuss with the team via text or a call 
+and have someone work with them. Another strategy I’d implement is creating 
+coding tasks that outline exactly how the code should work. 
+These tasks would be shared with the group so everybody would 
+know what to look for and how it would work, if something went wrong, 
+they would immediately know and we could start to discuss the issue.
+
