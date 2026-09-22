@@ -1,0 +1,12 @@
+It is important to create a strong code architecture before the 
+actual coding starts as that allows coders to identify what features
+are important and create something like a checklist of what needs to be
+done before they can move onto the next step. If code is written without planning
+just to get something to show, while that may be useful in determinging
+game structure, it could end up creating bigger problems down the line.
+Systems and code would have to be written around the pre-existing lines. 
+Bug testing and adding new features would be problematic as fixing the
+issue could result in multiple, seemingly unrelated features getting broken,
+resulting in more time fixing already written code rather than building the game
+up. Making a solid structure before writting anything can make expanding the game
+and fixing the game much smoother than just going in without a plan.
